@@ -1,3 +1,4 @@
+![네트워크 구성도](https://github.com/HyeonYeong-Rose/AzureLandingZoneWorkshop/blob/7538415de77a46239ade0d6d41e5ff2cd64f0acd/images/NW%20setup.png)
 ## 리소스 그룹 생성
 
 1. 리소스 그룹 메뉴로 이동합니다.
