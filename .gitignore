@@ -1,0 +1,8 @@
+.env
+.env.*
+!.env.example
+local-only/
+dry-run/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
